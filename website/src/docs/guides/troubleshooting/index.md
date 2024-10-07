@@ -122,3 +122,4 @@ Try redownloading the `.apk`.
 Seeing this error suggests the `.apk` is incompatible with your CPU architecture.
 Obtain the appropriate version or a universal `.apk` (i.e. the option with largest file size on GitHub).
 :::
+esc
